@@ -4,6 +4,9 @@
 #include "../code/random.h"
 #include <cmath>
 #include "game_object.h"
+#include <glm/glm.hpp>
+
+using glm::ivec2;
 
 enum Side
 {

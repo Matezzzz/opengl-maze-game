@@ -3,7 +3,7 @@
 
 #include <string>
 #include <cassert>
-#include <glad/glad.h>
+#include "glad.h"
 
 using std::string;
 

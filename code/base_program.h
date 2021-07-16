@@ -1,7 +1,7 @@
 #ifndef BASE_PROGRAM_H
 #define BASE_PROGRAM_H
 
-#include "glad/glad.h"
+#include "glad.h"
 #include <fstream>
 #include <iostream>
 #include <string>

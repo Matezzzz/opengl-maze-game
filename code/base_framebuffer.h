@@ -3,8 +3,8 @@
 
 #include "texture.h"
 #include "base_object.h"
-#include <my_own/old/glprogram.h>
-//#include <my_own/glprogram.h>
+#include "glprogram.h"
+
 
 class BaseFramebuffer
 {

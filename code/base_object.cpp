@@ -1,5 +1,5 @@
 #include "base_object.h"
-#include <glad/glad.h>
+#include "glad.h"
 #include <cassert>
 #include <iostream>
 

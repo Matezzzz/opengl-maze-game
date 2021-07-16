@@ -1,8 +1,11 @@
 
-#include <glad/glad.h>
+#include "code/glad.h"
 #include <GLFW/glfw3.h>
 
-#include <stb_image.h>
+#define STB_IMAGE_IMPLEMENTATION
+#include "code/stb_image.h"
+#undef STB_IMAGE_IMPLEMENTATION
+
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/type_ptr.hpp>
@@ -23,7 +26,7 @@
 
 #include "code/utilities.h"
 #include "code/base_program.h"
-#include <my_own/old/utils.h>
+#include "code/utils.h"
 #include "code/timer.h"
 #include "code/base_object.h"
 #include "code/base_framebuffer.h"

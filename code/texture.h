@@ -1,7 +1,7 @@
 #ifndef BASE_TEXTURE_H
 #define BASE_TEXTURE_H
 
-#include <glad/glad.h>
+#include "glad.h"
 #include <string>
 
 class BaseTexture

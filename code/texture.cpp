@@ -1,6 +1,6 @@
 #include "texture.h"
 #include <iostream>
-#include <stb_image.h>
+#include "stb_image.h"
 
 
 BaseTexture& BaseTexture::filters(GLenum minf, GLenum magf)

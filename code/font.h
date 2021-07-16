@@ -6,10 +6,10 @@
 
 #include <glm/glm.hpp>
 #include <glm/gtc/type_ptr.hpp>
-#include <glad/glad.h>
+#include "glad.h"
 
 #include "base_object.h"
-#include "my_own/old/glprogram.h"
+#include "base_program.h"
 
 #include <map>
 #include <string>

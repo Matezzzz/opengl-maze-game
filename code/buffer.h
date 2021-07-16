@@ -1,7 +1,7 @@
 #ifndef BUFFER_H
 #define BUFFER_H
 
-#include <glad/glad.h>
+#include "glad.h"
 #include <vector>
 
 using std::vector;
