@@ -1,0 +1,5 @@
+bin/*
+obj/*
+maze.cbp
+maze.depend
+maze.layout
