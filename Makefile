@@ -2,7 +2,7 @@
 
 LINK_DIRS = just-a-vulkan-library C:/Program Files/MSYS2/mingw64/x86_64-w64-mingw32/lib
 LINK_LIBS = glfw3 gdi32 opengl32 freetype
-CPP_FLAGS = -std=c++14 -O3
+CPP_FLAGS = -std=c++14 -O3 -static
 OUT_FILENAME = maze.exe
 
 
